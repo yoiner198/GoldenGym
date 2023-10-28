@@ -11,7 +11,8 @@ primero nos vamos a la parte donde dice importar  ![imagen_2023-10-28_172532419]
 el primero que importaremos se llama bdfitnessclubgym  ![image](https://github.com/RubenDarioAriza/GoldenGym/assets/89140491/db80f129-f870-456d-8f69-8208763db951)
 esta en la carpeta FitnessClubGYM ![image](https://github.com/RubenDarioAriza/GoldenGym/assets/89140491/6aaa7339-d021-4e97-95a7-4692b4f79f20)
 luego de encontrar y seleccionar nuestra base de datos bajamos hasta el final de la pagina y le damos importar si la de la carpeta FitnessClubGYM no le funciona intente con la de carpeta dentro de FitnessClubGYM llamada SCRIPTBD hay un respaldo 
-luego nos ubicamos en la tabla de usuarios de la base de datos bdfitnessclubgym y creamos nuestro usuario pones tu numero de identificacion, nombre de usuario y una contraseña luego 
+luego nos ubicamos en la tabla de usuarios de la base de datos bdfitnessclubgym ![image](https://github.com/RubenDarioAriza/GoldenGym/assets/89140491/375901ce-ad7f-4be0-ac1c-b38575c801f9)
+y creamos nuestro usuario pones tu numero de identificacion, nombre de usuario y una contraseña luego 
 intalamos las extenciones que visual nos indique que podriamos necesitar al descargar todo y ya tener las bases de datos instaladas .
 entramos a este link http://localhost/FitnessClubGYM/principal.php   que es donde podremos aceder a nuesto GoldeGym inicias secion con el usuario y contraseña que creaste y ingresas 
 en estos momentos solo podemos crear, modificar y eliminar los clientes aun no hemos terminado de arreglar la edicion de las facturas ya que las bases de datos se me corrompieron en un mantenimiento de mi equipo
