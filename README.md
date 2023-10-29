@@ -1,5 +1,10 @@
 # GoldenGym
-Sistema de gestión de gimnasios 
+Sistema de gestión de gimnasios
+Autores:
+Ruben Dario Ariza Valencia
+
+
+
 para poder correr este aplicativo lo primero que tenemos que hacer es instalar XAMPP por este link https://www.apachefriends.org/es/download.html   siguiendo todos los pasos 
 luego de intalar XAMPP podemos descargar el rar con el aplicativo donde usted guste al sacarlo del rar lo cortara y pegara en una carpeta de XAMPP llamada htdocs ![imagen_2023-10-28_224802985](https://github.com/RubenDarioAriza/GoldenGym/assets/89140491/92b1d252-84f0-4ede-ad9f-b5d0c1194e3b)
 
