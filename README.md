@@ -1,8 +1,8 @@
 # GoldenGym
 Sistema de gestión de gimnasios
 Autores:
-Ruben Dario Ariza Valencia
-Yoiner Martinez Muñoz
+Ruben Dario Ariza Valencia,
+Yoiner Martinez Muñoz,
 Luis Andres Cataño
 
 
