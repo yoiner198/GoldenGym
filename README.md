@@ -2,7 +2,8 @@
 Sistema de gestión de gimnasios
 Autores:
 Ruben Dario Ariza Valencia
-
+Yoiner Martinez Muñoz
+Luis Andres Cataño
 
 
 para poder correr este aplicativo lo primero que tenemos que hacer es instalar XAMPP por este link https://www.apachefriends.org/es/download.html   siguiendo todos los pasos 
