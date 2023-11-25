@@ -3,6 +3,7 @@ Sistema de gestión de gimnasios
 Autores:
 Ruben Dario Ariza Valencia
 Luis Andres Cataño Torres
+Yoiner Martinez
 
 
 
